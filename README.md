@@ -7,7 +7,6 @@
     
 </div>
 
-
 <h2 align="left" id="oberlevd-stack">🔥 Tech stack</h2>
 
 > General
@@ -59,7 +58,6 @@
   </tr> 
 </table>
 
-
 > Code quality
 
 <table width='100%'>
@@ -85,9 +83,15 @@
     <tr>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
-        <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
       </a>
       <br>Webpack
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="Webpack" />
+      </a>
+      <br>Gulp
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
@@ -110,9 +114,9 @@
   </tr> 
 </table>
 
-
 ## ✈️ Contact
 
 - 🍿 &nbsp;**[Twitch](https://www.twitch.tv/deni_oberlev)**
 - ✈️ &nbsp;**[Telegram](https://t.me/OberlevD)**
+- 🐦 &nbsp;**[Twitter](https://twitter.com/OberlevD)**
 - ☄️ &nbsp;**[Github](https://github.com/Daniil-Oberlev)**

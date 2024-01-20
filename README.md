@@ -114,6 +114,12 @@
   </tr> 
 </table>
 
+<br>
+<h2 align="left" id="oberlevd-stack">📊 My stats</h2>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniil-Oberlev&layout=donut&theme=transparent)](https://github.com/Daniil-Oberlev/github-readme-stats)
+
 ## ✈️ Contact
 
 - 🍿 &nbsp;**[Twitch](https://www.twitch.tv/deni_oberlev)**

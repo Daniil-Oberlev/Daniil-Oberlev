@@ -114,6 +114,9 @@
   </tr> 
 </table>
 
+![snake animation](https://github.com/Daniil-Oberlev/Daniil-Oberlev/blob/output/github-contribution-grid-snake2.svg)
+
+
 ## ✈️ Contact
 
 - 🍿 &nbsp;**[Twitch](https://www.twitch.tv/deni_oberlev)**

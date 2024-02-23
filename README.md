@@ -4,6 +4,9 @@
     <a href="https://www.twitch.tv/deni_oberlev/">
         <img alt="Twitch Status" src="https://img.shields.io/twitch/status/deni_oberlev">
     </a>
+    <a>
+        <img alt="codewars rating" src='https://www.codewars.com/users/Chouqe/badges/micro'>
+    </a>
     
 </div>
 

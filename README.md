@@ -43,7 +43,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
       </a>
       <br>Figma
     </td>
@@ -53,20 +53,42 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
      <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>Github
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
+      </a>
+      <br>yarn
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width="36" height="36" alt="pnpm" />
+      </a>
+      <br>pnpm
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" width="36" height="36" alt="bun" />
+      </a>
+      <br>bun
+    </td>
+  </tr>
 </table>
+
+
 
 > Code quality
 
@@ -91,7 +113,7 @@
     </td>
         <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="Stylelint" />
       </a>
       <br>Stylelint
     </td>
@@ -116,6 +138,17 @@
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
         <img
+          src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png"
+          width="36"
+          height="36"
+          alt="Next JS"
+        />
+      </a>
+      <br>Next JS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img
           src="https://cdn.worldvectorlogo.com/logos/redux.svg"
           width="36"
           height="36"
@@ -132,12 +165,12 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="Webpack" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="Gulp" />
       </a>
       <br>Gulp
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack" >
+      <a href="#oberlevd-stack" >
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg"
           width="36"
@@ -149,15 +182,9 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/logo-download/P/Pug-logo-vector-01.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://brandeps.com/logo-download/P/Pug-logo-vector-01.svg" width="36" height="36" alt="Pug" />
       </a>
       <br>Pug
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
     </td>
   </tr>
   <tr>
@@ -167,10 +194,49 @@
       </a>
       <br>CoffeeScript
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    </td>
+        <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack" >
+        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+      </a>
+      <br>Storybook
+    </td>
   </tr>
 </table>
 
 > Backend
+
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
@@ -193,7 +259,6 @@
     </td>
   </tr>
 </table>
-
 
 
 

@@ -85,6 +85,24 @@
       </a>
       <br>bun
     </td>
+    <td align='center' width='110' height='90'>
+      <a href='#oberlevd-stack'>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg' width='36' height='36' alt='Nix'>
+      </a>
+      <br>Nix
+    </td>
+    <td align='center' width='110' height='90'>
+      <a href='#oberlevd-stack'>
+        <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width='36' height='36' alt='Docker'>
+      </a>
+      <br>Docker
+    </td>
+    <td align='center' width='110' height='90'>
+      <a href=#oberlevd-stack'>
+        <img src='https://www.svgrepo.com/show/373833/mdx.svg' width='36' height='36' alt='MDX'>
+      </a>
+      <br>MDX
+    </td>
   </tr>
 </table>
 
@@ -226,11 +244,23 @@
       <br>Jest
     </td>
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>playwright
+    </td>
         <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
         <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
       </a>
       <br>Storybook
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#oberlevd-stack">
+        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
+      </a>
+      <br>puppeteer
     </td>
   </tr>
 </table>

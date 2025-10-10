@@ -8,38 +8,32 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="36" height="36" alt="Python" />
       </a>
-      <br>JavaScript
+      <br>Python
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"
+          src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"
           width="36"
           height="36"
-          alt="TypeScript"
+          alt="Go"
         />
       </a>
-      <br>TypeScript
+      <br>Go
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="36" height="36" alt="Bash" />
       </a>
-      <br>HTML
+      <br>Bash
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
       </a>
-      <br>CSS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" />
-      </a>
-      <br>Figma
+      <br>Linux
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
@@ -47,268 +41,154 @@
       </a>
       <br>Git
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" width="36" height="36" alt="pnpm" />
-      </a>
-      <br>pnpm
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" width="36" height="36" alt="bun" />
-      </a>
-      <br>bun
-    </td>
     <td align='center' width='110' height='90'>
       <a href='#oberlevd-stack'>
         <img src='https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg' width='36' height='36' alt='Nix'>
       </a>
       <br>Nix
     </td>
+  </tr>
+</table>
+
+> Containerization & Orchestration
+
+<table width='100%'>
+  <tr>
     <td align='center' width='110' height='90'>
       <a href='#oberlevd-stack'>
         <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width='36' height='36' alt='Docker'>
       </a>
       <br>Docker
     </td>
-    <td align='center' width='110' height='90'>
+    <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://www.svgrepo.com/show/373833/mdx.svg" width="36" height="36" alt="MDX">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" width="36" height="36" alt="Kubernetes" />
       </a>
-      <br>MDX
+      <br>Kubernetes
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://habrastorage.org/files/387/a02/5c6/387a025c6d7a45e6931da923105316df.png" width="36" height="36" alt="Docker Swarm" />
+      </a>
+      <br>Docker Swarm
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/helm/helm-original.svg" width="36" height="36" alt="Helm" />
+      </a>
+      <br>Helm
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://landscape.cncf.io/logos/2d881599f6faed0a16840a675049bd10ce7096134d93df3f533aaf91972a9689.svg" width="36" height="36" alt="Istio" />
+      </a>
+      <br>Istio
     </td>
   </tr>
 </table>
 
-> Code Quality
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="ESLint" />
-      </a>
-      <br>ESLint
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="StyleLint" />
-      </a>
-      <br>StyleLint
-    </td>
-  </tr>
-</table>
-
-> Frontend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img
-          src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-          width="36"
-          height="36"
-          alt="React"
-        />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img
-          src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png"
-          width="36"
-          height="36"
-          alt="Next"
-        />
-      </a>
-      <br>Next
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-          width="36"
-          height="36"
-          alt="Redux"
-        />
-      </a>
-      <br>Redux
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" width="36" height="36" alt="Webpack" />
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="36" height="36" alt="Gulp" />
-      </a>
-      <br>Gulp
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack" >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vitejs/vitejs-original.svg"
-          width="36"
-          height="36"
-          alt="Vite"
-        />
-      </a>
-      <br>Vite
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/logo-download/P/Pug-logo-vector-01.svg" width="36" height="36" alt="Pug" />
-      </a>
-      <br>Pug
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="36" height="36" alt="Less" />
-      </a>
-      <br>Less
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postcss/postcss-original.svg" width="36" height="36" alt="PostCSS" />
-      </a>
-      <br>PostCSS
-    </td>
-  </tr>
-</table>
-
-> Testing
+> CI/CD
 
 <table width='100%'>
   <tr>
      <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
-        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins"/>
       </a>
-      <br>Jest
+      <br>Jenkins
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack">
-        <img src="https://brandeps.com/icon-download/C/Cypress-icon-vector-01.svg" width="36" height="36" alt="cypress" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions"/>
       </a>
-      <br>Cypress
+      <br>GitHub Actions
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack">
-        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab CI" />
       </a>
-      <br>playwright
+      <br>GitLab CI
     </td>
         <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack" >
-        <img src="https://brandeps.com/icon-download/S/Storybook-icon-vector-02.svg" width="36" height="36" alt="storybook" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" width="36" height="36" alt="ArgoCD" />
       </a>
-      <br>Storybook
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#oberlevd-stack">
-        <img src="https://bestofjs.org/logos/puppeteer.svg" width="36" height="36" alt="puppeteer" />
-      </a>
-      <br>puppeteer
+      <br>ArgoCD
     </td>
   </tr>
 </table>
 
-> UI
+> Infrastructure as Code
 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" />
       </a>
-      <br>Tailwind
+      <br>Terraform
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" />
       </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="36" height="36" alt="MUI" />
-      </a>
-      <br>MUI
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#oberlevd-stack">
-        <img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" width="36" height="36" alt="Shadcn/ui" />
-      </a>
-      <br>ShadCN
+      <br>Ansible
     </td>
   </tr>
-</table>
+    </table>
 
-> Backend
+> Reverse Proxies & Load Balancers
 
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="Nginx" />
       </a>
-      <br>Node.js
+      <br>Nginx
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Traefik_Logo.svg" width="36" height="36" alt="Traefik" />
+      </a>
+      <br>Traefik
+    </td>
+  </tr>
+</table>
+
+> Security
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original.svg" width="36" height="36" alt="Vault" />
+      </a>
+      <br>Vault
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" width="36" height="36" alt="bun" />
+        <img src="https://cdn.worldvectorlogo.com/logos/snyk.svg" width="36" height="36" alt="Snyk" />
       </a>
-      <br>bun
+      <br>Snyk
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="36" height="36" alt="Express.js" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-original.svg" width="36" height="36" alt="SonarQube" />
       </a>
-      <br>Express.js
+      <br>SonarQube
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg?short_path=4fb8cdc" width="36" height="36" alt="Socket.IO" />
+        <img src="https://www.pngfind.com/pngs/m/664-6646318_image-owasp-zap-logo-hd-png-download.png" width="36" height="36" alt="OWASP Zap" />
       </a>
-      <br>Socket.IO
+      <br>OWASP Zap
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#oberlevd-stack">
+        <img src="https://desktop.docker.com/extensions/aquasec_trivy-docker-extension/raw_githubusercontent_com/aquasecurity/trivy-docker-extension/main/trivy.svg" width="36" height="36" alt="Trivy" />
+      </a>
+      <br>Trivy
     </td>
   </tr>
 </table>
@@ -341,30 +221,22 @@
       </a>
       <br>Redis
     </td>
-  </tr>
-</table>
-
-> Other
-
-<table width='100%'>
-  <tr>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="36" height="36" alt="Electron" />
+        <img src="https://avatars.githubusercontent.com/u/8986001?v=4" width="36" height="36" alt="TimescaleDB" />
       </a>
-      <br>Electron
+      <br>TimescaleDB
     </td>
     <td align="center" width="110" height="90">
       <a href="#oberlevd-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" width="36" height="36" alt="Tauri" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" width="36" height="36" alt="ClickHouse" />
       </a>
-      <br>Tauri
+      <br>ClickHouse
     </td>
   </tr>
 </table>
 
 ---
-
 
 <br>
 <h2 align="left" id="oberlevd-stack">📊 My stats</h2>
@@ -374,11 +246,9 @@
 
 ## ✈️ Contact
 
-- 🍿 &nbsp;**[Twitch](https://www.twitch.tv/deni_oberlev)**
 - ✈️ &nbsp;**[Telegram](https://t.me/OberlevD)**
 - 🐦 &nbsp;**[Twitter](https://twitter.com/OberlevD)**
 - ☄️ &nbsp;**[Github](https://github.com/Daniil-Oberlev)**
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daniil-Oberlev/Daniil-Oberlev/output/github-contribution-grid-snake-dark.svg">
